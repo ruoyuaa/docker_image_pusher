@@ -6,3 +6,4 @@ docker pull thingsboard/tb-mqtt-transport:3.7.0
 docker pull thingsboard/tb-coap-transport:3.7.0
 docker pull thingsboard/tb-lwm2m-transport:3.7.0
 docker pull thingsboard/tb-snmp-transport:3.7.0
+
