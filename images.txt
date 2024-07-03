@@ -1,5 +1,8 @@
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+docker pull thingsboard/tb-node:3.7.0
+docker pull thingsboard/tb-web-ui:3.7.0
+docker pull thingsboard/tb-js-executor:3.7.0
+docker pull thingsboard/tb-http-transport:3.7.0
+docker pull thingsboard/tb-mqtt-transport:3.7.0
+docker pull thingsboard/tb-coap-transport:3.7.0
+docker pull thingsboard/tb-lwm2m-transport:3.7.0
+docker pull thingsboard/tb-snmp-transport:3.7.0
